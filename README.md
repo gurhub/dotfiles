@@ -1,8 +1,10 @@
 # dotfiles
 
+Here are the dot files that I use for development.
+
 ### .gitignore
 
-Here is my .gitignore file for XCode projects:
+.gitignore file for XCode projects:
 
 https://github.com/gurhub/dotfiles/blob/master/dotgitignore
 
