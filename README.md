@@ -1,4 +1,4 @@
-# dotfiles
+# My dotfiles
 
 Here are the dot files that I use for development. 
 Feel free to use them in your projects 🤓.
