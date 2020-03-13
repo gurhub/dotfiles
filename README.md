@@ -1,6 +1,7 @@
 # dotfiles
 
-Here are the dot files that I use for development. Feel free to use them in your projects 🤓.
+Here are the dot files that I use for development. 
+Feel free to use them in your projects 🤓.
 
 ### .gitignore
 
@@ -19,3 +20,5 @@ https://github.com/gurhub/dotfiles/blob/master/dotclang-format
 ### .swiftlint.yml
 
 https://github.com/gurhub/dotfiles/blob/master/dotswiftlint.yml
+
+For other rules [check:](https://github.com/realm/SwiftLint/blob/master/.swiftlint.yml) 
