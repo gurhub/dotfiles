@@ -21,4 +21,4 @@ https://github.com/gurhub/dotfiles/blob/master/dotclang-format
 
 https://github.com/gurhub/dotfiles/blob/master/dotswiftlint.yml
 
-For other rules [check:](https://github.com/realm/SwiftLint/blob/master/.swiftlint.yml) 
+For other rules check [here](https://github.com/realm/SwiftLint/blob/master/.swiftlint.yml). 
