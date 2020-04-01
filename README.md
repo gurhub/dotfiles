@@ -7,18 +7,19 @@ Feel free to use them in your projects 🤓.
 
 .gitignore file for XCode projects:
 
-https://github.com/gurhub/dotfiles/blob/master/dotgitignore
+[.gitignore](https://github.com/gurhub/dotfiles/blob/master/dotgitignore)
 
 ### .zshrc
 
-https://github.com/gurhub/dotfiles/blob/master/dotzshrc
+[.zshrc](https://github.com/gurhub/dotfiles/blob/master/dotzshrc)
 
 ### .clang-format
 
-https://github.com/gurhub/dotfiles/blob/master/dotclang-format
+[.clang-format](https://github.com/gurhub/dotfiles/blob/master/dotclang-format)
 
 ### .swiftlint.yml
 
-https://github.com/gurhub/dotfiles/blob/master/dotswiftlint.yml
+[.swiftlint.yml](https://github.com/gurhub/dotfiles/blob/master/dotswiftlint.yml)
+
 
 For other rules check [here](https://github.com/realm/SwiftLint/blob/master/.swiftlint.yml). 
