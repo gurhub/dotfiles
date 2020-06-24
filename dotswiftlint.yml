@@ -13,3 +13,4 @@ disabled_rules: # rule identifiers to exclude from running
   - function_body_length
   - block_based_kvo
 line_length: 100
+function_parameter_count: 6
