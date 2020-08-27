@@ -13,13 +13,18 @@ Feel free to use them in your projects 🤓.
 
 [.zshrc](https://github.com/gurhub/dotfiles/blob/master/dotzshrc)
 
-### .clang-format
+### .swiftformat
 
-[.clang-format](https://github.com/gurhub/dotfiles/blob/master/dotclang-format)
+[.swiftformat](https://github.com/gurhub/dotfiles/blob/master/dotswiftformat)
+
+For more information about Swiftformat please [check here](https://github.com/nicklockwood/SwiftFormat)
 
 ### .swiftlint.yml
 
 [.swiftlint.yml](https://github.com/gurhub/dotfiles/blob/master/dotswiftlint.yml)
 
-
 For other rules check [here](https://github.com/realm/SwiftLint/blob/master/.swiftlint.yml). 
+
+### .clang-format
+
+[.clang-format](https://github.com/gurhub/dotfiles/blob/master/dotclang-format)
