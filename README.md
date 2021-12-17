@@ -1,7 +1,10 @@
-# My dot (.) files
+# My Dot (.) Files
 
 Here are the dot (.*) files that I use for development. 
 Feel free to use them in your projects 🤓.
+
+## What is dot file
+In computing, a hidden folder (sometimes hidden directory) or hidden file is a folder or file which filesystem utilities do not display by default when showing a directory listing. They are commonly used for storing user preferences or preserving the state of a utility, and are frequently created implicitly by using various utilities. For more detail please check [here](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory).
 
 # .gitignore
 
