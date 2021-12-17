@@ -9,6 +9,13 @@ Feel free to use them in your projects 🤓.
 
 [.gitignore](https://github.com/gurhub/dotfiles/blob/master/dotgitignore)
 
+# .gitattributes
+
+.gitattributes file for Git Large File Storage (LFS):
+
+[.gitattributes](https://github.com/gurhub/dotfiles/blob/master/dotgitattributes)
+
+
 # .zshrc
 
 [.zshrc](https://github.com/gurhub/dotfiles/blob/master/dotzshrc)
