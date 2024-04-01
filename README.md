@@ -1,16 +1,22 @@
 # My Dot Files
 
-Here are the dot (.*) files that I use for development. 
+Here are the dot (.*) files I use for development. 
 Feel free to use them in your projects 🤓.
 
-## What is dot file
-In computing, a hidden folder (sometimes hidden directory) or hidden file is a folder or file which filesystem utilities do not display by default when showing a directory listing. They are commonly used for storing user preferences or preserving the state of a utility, and are frequently created implicitly by using various utilities. For more detail please check [here](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory).
+## What is a dot file
+In computing, a hidden folder (sometimes hidden directory) or file is a folder or file filesystem utilities do not display by default when showing a directory listing. They are commonly used for storing user preferences or preserving the state of a utility and are frequently created implicitly by using various utilities. For more detail please check [here](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory).
 
 # .wezterm.lua
 
 .wezterm.lua for [WezTerm](https://wezfurlong.org) terminal:
 
 [.wezterm.lua](https://github.com/gurhub/dotfiles/blob/master/dotwezterm.lua)
+
+# init.lua
+
+Config file for Neovim. Location: ~/.config/nvim/init.lua
+
+[init.lua](https://github.com/gurhub/dotfiles/blob/master/init.lua)
 
 # .gitignore
 
@@ -36,7 +42,7 @@ For more information about Swiftformat please [check here](https://github.com/ni
 
 ## How to use:
 
-* install with command below:
+* install with the command below:
 
 ```
 brew cask install swiftformat-for-xcode
